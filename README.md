@@ -17,9 +17,11 @@
 
 ## 📁 디렉토리 구조
 
+```
 used-car-price-prediction
 ├── frontend/ # React 프로젝트 (사용자 인터페이스)
 ├── backend/ # Spring Boot 프로젝트 (API 서버, DB 연동)
 ├── ml-api/ # Python ML 서버 (예측 모델 API)
 ├── database/ # DB 관련 SQL 및 ERD 파일
 └── README.md
+```
