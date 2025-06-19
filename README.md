@@ -1,1 +1,25 @@
-# used-car-price-prediction
+# 🚗 Used Cars Dataset을 이용한 AI 기반 중고차 가격 예측 서비스
+
+사용자가 입력한 중고차 정보를 기반으로, AI가 예측한 차량 가격을 제공하는 웹 서비스입니다.
+
+---
+
+## 🛠 프로젝트 구성
+
+| 영역       | 기술 스택                                  |
+|------------|---------------------------------------------|
+| 프론트엔드 | React, Axios, Tailwind CSS                  |
+| 백엔드     | Spring Boot, Spring Data JPA, MySQL         |
+| AI 서버    | Python, scikit-learn, Flask or FastAPI      |
+| DB         | MySQL                                       |
+
+---
+
+## 📁 디렉토리 구조
+
+used-car-price-prediction/
+├── frontend/ # React 프로젝트 (사용자 인터페이스)
+├── backend/ # Spring Boot 프로젝트 (API 서버, DB 연동)
+├── ml-api/ # Python ML 서버 (예측 모델 API)
+├── database/ # DB 관련 SQL 및 ERD 파일
+└── README.md
