@@ -52,7 +52,7 @@ used-car-price-prediction
 ---
 
 ## 💡 실행 화면
-
+![20250627_155353](https://github.com/user-attachments/assets/ce4b83dd-d700-426f-b3c6-ff7d8c53b34c)
 ---
 
 ## 📌 기타 참고 사항
