@@ -1,6 +1,7 @@
 # 🚗 Used Cars Dataset을 이용한 AI 기반 중고차 가격 예측 서비스
 
 사용자가 입력한 차량 정보를 기반으로, Kaggle에서 제공하는 Used Cars Dataset으로 학습된 AI가 중고차 가격을 예측해주는 웹 서비스입니다.
+프론트엔드로는 React, 백엔드로는 Spring 및 Python을 사용하였습니다.
 
 ---
 
