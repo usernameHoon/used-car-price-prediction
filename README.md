@@ -7,11 +7,11 @@
 ## 🛠 프로젝트 구성
 
 | 영역       | 기술 스택                                  |
-|------------|---------------------------------------------|
+|------------|------------------------------------------- |
 | 프론트엔드 | React, Axios, Tailwind CSS                  |
-| 백엔드     | Spring Boot, Spring Data JPA       |
-| AI 서버    | Python, scikit-learn, Flask                  |
-| DB         | MySQL                                       |
+| 백엔드     | Spring Boot, Spring Data JPA               |
+| AI 서버    | Python, scikit-learn, Flask                |
+
 
 ---
 
