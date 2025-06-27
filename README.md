@@ -37,7 +37,7 @@ used-car-price-prediction
 
 ```
 ## 🤖 AI 모델 정보
-사용 데이터: Kaggle - Used Cars Dataset
+사용 데이터: [Kaggle - Used Cars Dataset] ([링크](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data))
 
 주요 전처리: 범주형 변수 인코딩, 이상치 제거, 특성 선택
 
