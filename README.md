@@ -9,8 +9,8 @@
 | 영역       | 기술 스택                                  |
 |------------|---------------------------------------------|
 | 프론트엔드 | React, Axios, Tailwind CSS                  |
-| 백엔드     | Spring Boot, Spring Data JPA, MySQL         |
-| AI 서버    | Python, scikit-learn, Flask or FastAPI      |
+| 백엔드     | Spring Boot, Spring Data JPA       |
+| AI 서버    | Python, scikit-learn, Flask                  |
 | DB         | MySQL                                       |
 
 ---
