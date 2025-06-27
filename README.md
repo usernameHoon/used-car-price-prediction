@@ -32,7 +32,7 @@
 ```
 used-car-price-prediction
 ├── frontend/ # React 프로젝트 (사용자 인터페이스)
-├── backend/ # Spring Boot 프로젝트 (API 서버, DB 연동)
+├── backend/ # Spring Boot 프로젝트 (API 서버)
 ├── used-car-price-predictor/ # Python ML 서버 (예측 모델 API)
 └── README.md
 ```
