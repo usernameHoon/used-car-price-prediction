@@ -36,6 +36,8 @@ used-car-price-prediction
 └── README.md
 ```
 
+---
+
 ## 🤖 AI 모델 정보
 + 사용 데이터: ([Kaggle - Used Cars Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data))
 
