@@ -4,6 +4,18 @@
 
 ---
 
+## ✨ 주요 기능
+중고차 가격 예측
+사용자가 제조사, 모델, 연식, 주행 거리 등 차량 정보를 입력하면, 학습된 AI 모델이 해당 차량의 가격을 실시간으로 예측합니다.
+
+제조사에 따른 모델 자동 필터링
+제조사 선택 시, 해당 제조사에 속한 차량 모델만 자동으로 필터링되어 사용자 경험을 향상시킵니다.
+
+예측 결과 시각화
+예측된 가격을 시각적 차트로 표시하며, 상세 결과는 모달창을 통해 확인 가능합니다.
+
+---
+
 ## 🛠 프로젝트 구성
 
 | 영역       | 기술 스택                                  |
@@ -11,7 +23,6 @@
 | 프론트엔드 | React, Axios, Tailwind CSS                  |
 | 백엔드     | Spring Boot, Spring Data JPA               |
 | AI 서버    | Python, scikit-learn, Flask                |
-
 
 ---
 
@@ -24,3 +35,5 @@ used-car-price-prediction
 ├── used-car-price-predictor/ # Python ML 서버 (예측 모델 API)
 └── README.md
 ```
+
+
