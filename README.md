@@ -48,10 +48,9 @@ used-car-price-prediction
   + XGBoostRegressor
   + LightGBMRegressor
 
-```
-
 ---
-
+```
+```
 ## 📌 기타 참고 사항
 + **모델 파일 용량 이슈**로 인해 .pkl 모델 파일은 Git에 포함되어 있지 않습니다. 
 + download_models.py 스크립트를 통해 별도 다운로드가 필요합니다.
