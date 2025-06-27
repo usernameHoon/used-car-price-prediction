@@ -29,6 +29,7 @@
 ## 📁 디렉토리 구조
 
 ```
+
 used-car-price-prediction
 ├── frontend/ # React 프로젝트 (사용자 인터페이스)
 ├── backend/ # Spring Boot 프로젝트 (API 서버, DB 연동)
@@ -36,6 +37,7 @@ used-car-price-prediction
 └── README.md
 
 ```
+
 ## 🤖 AI 모델 정보
 + 사용 데이터: ([Kaggle - Used Cars Dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data))
 
@@ -45,4 +47,5 @@ used-car-price-prediction
   + RandomForestRegressor
   + XGBoostRegressor
   + LightGBMRegressor
+
 ```
