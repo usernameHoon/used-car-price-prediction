@@ -1,0 +1,6 @@
+gitignore
+
+notebook
+
+/data
+/models/*.pkl
