@@ -7,11 +7,11 @@
 ## 🛠 프로젝트 구성
 
 | 영역       | 기술 스택                                  |
-|------------|---------------------------------------------|
+|------------|------------------------------------------- |
 | 프론트엔드 | React, Axios, Tailwind CSS                  |
-| 백엔드     | Spring Boot, Spring Data JPA, MySQL         |
-| AI 서버    | Python, scikit-learn, Flask or FastAPI      |
-| DB         | MySQL                                       |
+| 백엔드     | Spring Boot, Spring Data JPA               |
+| AI 서버    | Python, scikit-learn, Flask                |
+
 
 ---
 
@@ -21,7 +21,6 @@
 used-car-price-prediction
 ├── frontend/ # React 프로젝트 (사용자 인터페이스)
 ├── backend/ # Spring Boot 프로젝트 (API 서버, DB 연동)
-├── ml-api/ # Python ML 서버 (예측 모델 API)
-├── database/ # DB 관련 SQL 및 ERD 파일
+├── used-car-price-predictor/ # Python ML 서버 (예측 모델 API)
 └── README.md
 ```
