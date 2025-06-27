@@ -34,6 +34,15 @@ used-car-price-prediction
 ├── backend/ # Spring Boot 프로젝트 (API 서버, DB 연동)
 ├── used-car-price-predictor/ # Python ML 서버 (예측 모델 API)
 └── README.md
+
 ```
+## 🤖 AI 모델 정보
+사용 데이터: Kaggle - Used Cars Dataset
 
+주요 전처리: 범주형 변수 인코딩, 이상치 제거, 특성 선택
 
+사용 모델:
+RandomForestRegressor
+XGBoostRegressor
+LightGBMRegressor
+```
